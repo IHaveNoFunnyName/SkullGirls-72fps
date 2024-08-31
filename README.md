@@ -19,7 +19,7 @@ Since the main menu doesn't use frameskip its speed is increased by 20% as a sid
 
 The patch also creates SkullGirls.bak as a backup.
 
-You can delete patched SkullGirls.exe and rename SkullGirls.bak to SkullGirls.exe to undo the patch (or use steam to verify files)
+To revert the patch delete patched SkullGirls.exe and rename SkullGirls.bak to SkullGirls.exe, or use steam's 'Verify integrity of game files' to redownload a clean SkullGirls.exe
 
 # Development
 ##### (Since the patch will have to be remade every well, patch, this also doubles as notes for myself to do it fast next time)

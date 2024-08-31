@@ -15,7 +15,7 @@ Since the main menu doesn't use frameskip its speed is increased by 20% as a sid
 
 # Installation
 
-[Download the latest release .zip](I'll put a link here later) and extract it into the folder with SkullGirls.exe (...Steam\steamapps\common\Skullgirls) and run patch-to-72fps.bat
+[Download the latest release .zip](https://github.com/IHaveNoFunnyName/SkullGirls-72fps/releases/download/June-12/sg-72fps-patch-for-june-12-update.zip) and extract it into the folder with SkullGirls.exe (...Steam\steamapps\common\Skullgirls) and run patch-to-72fps.bat
 
 The patch also creates SkullGirls.bak as a backup.
 
